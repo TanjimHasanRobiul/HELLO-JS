@@ -12,4 +12,4 @@ var zela = 'Dhaka ';
 var examPass = true;
 var goingSajek = false;
 
-console.log(zela)
+console.log(myName)
